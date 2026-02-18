@@ -220,4 +220,13 @@ FoodgradeStore/
 
 ---
 
+# Use Case Diagram
+<img width="701" height="856" alt="XLNBRjim4BmRy3yiV6bxI7el0YE67u61f0aYjAS2mLPSsqGeoY0f947HV-_o8LcKwkHYYCEPqP2UjQ-jG-EQIaqdYdOEN0r6xWyEX3HKEbdhwSG-Itr4WnLWwMfJk3T5W2zawuhwk_Q0edwHUWyxL9QtffCWW5dXSBVxkX2Lr3D02s7jz_qxKE_PRxQfQt5ZK10yt1TGl5b7rGp-U1R09x" src="https://github.com/user-attachments/assets/bdd276aa-d771-42d8-843d-101d0a08891b" />
+
+
+# Sequence Diagram
+<img width="1229" height="877" alt="XLHDRzim3BqRy7yWV4gm1SDsx65elfm5oBAiJjVBW46LcCIOB6QojBJ_VfJyiRHDqLm2YO-FZu-YhsidhFELJXDNEerGu1-FHY9yWX4iqA0L3k469PP71vjP3eESI2siK3XCapGHqf65h71Yj_imLbLfCX0rn7EQt9CtIjX7o7AorKUuNSRexJ9D91bdIKFMarkIMDSHiA9zATD42IVkHO" src="https://github.com/user-attachments/assets/3b845f19-bfad-4416-b14b-b46e007a413c" />
+
+
+<img width="756" height="702" alt="ZLF1Rjim3BqRy3yGFZc7fEYrXxLDamm1icADrzk0WRMOLfWifHA5DNy_ceaxj-kXlbZc8v_U8-chn1WvTwuisB8ZQEWvasy9pc4AryR0znXCRXdgLGZcQqH3ax8e2smvHAWQnjtkxDfqrbU02VIxB1v2zWRZ0QfLYDqvtAyLlL-NHHiyn-06P1CURQkWdih28EC39XBkkurbWiKfyDFN9o" src="https://github.com/user-attachments/assets/5afac020-a49d-419d-b7e6-16eb2f5402ac" />
 
